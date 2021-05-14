@@ -1,4 +1,4 @@
-# CS529 Security Analytics (Fall 2020, Purdue University)
+# CS529 Security Analytics (Purdue University)
 
 This repository contains jupyter notebooks for students to learn about the basics of python, pandas, numpy, matplotlib,
 keras, and machine learning metrics.
